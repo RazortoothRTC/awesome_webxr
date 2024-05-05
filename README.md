@@ -10,4 +10,4 @@ WebXR stuff
 
 ## People
 
-- [WebXR](https://xrbootcamp.com/top-xr-enablers-learn-from-the-best-of-the-best/)
+- [WebXR Enablers](https://xrbootcamp.com/top-xr-enablers-learn-from-the-best-of-the-best/)
