@@ -11,6 +11,7 @@ WebXR stuff
 ### Meta Quest 2 >
 
 - https://developer.oculus.com/webxr/
+- https://developer.oculus.com/documentation/web/browser-specs/
 
 
 ## People
