@@ -17,6 +17,8 @@ WebXR stuff
 
 - https://developer.oculus.com/webxr/
 - https://developer.oculus.com/documentation/web/browser-specs/
+- https://github.com/meta-quest/webxr-first-steps
+- https://github.com/meta-quest/webxr-showcases
 
 
 ## People
